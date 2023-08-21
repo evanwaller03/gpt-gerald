@@ -1,0 +1,4 @@
+
+
+SECRET_KEY = "YOUR OPENAI API KEY"
+
