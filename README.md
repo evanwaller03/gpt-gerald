@@ -1,3 +1,5 @@
+CMillion, I hope you do something awesome with this. If you ever want someone to bounce ideas off of, shoot me an email. Thanks for watching the videos.
+
 # gpt-gerald
 Created a talking GPT bot named Gerald.
 
