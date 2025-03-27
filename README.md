@@ -15,4 +15,4 @@ Process:
   6. Repeat
 
 What I would like to add:
-  - Smoother interface that recognizes when I am done talking and maybe a buttont that tells it when to start listening in case the user needs time to think of a question.
+  - Smoother interface that recognizes when I am done talking and maybe a button that tells it when to start listening in case the user needs time to think of a question.
